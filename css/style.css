@@ -1,6 +1,6 @@
 main {
     
-    background-color:  #2e4b65;
+    background-color:  #ffffff;
     width: 80%;
     height: 50%;
     margin: auto;
@@ -11,7 +11,7 @@ main {
 
 h1{
           
-    color: rgb(213, 213, 149);
+    color: rgb(0, 0, 0);
 }
 
 
@@ -22,24 +22,25 @@ img{
 
 p{
     font-size: 15px;
-    color: rgb(213, 213, 149);
+    color: rgb(0, 0, 0);
 }
 
 
 body{
     
-    background-color: #646a4d;
+    background-image: url(../image/fondo4.jpg);
+    /* background-repeat: no-repeat; */
 }
 
 
 h2{
-    color: rgb(213, 213, 149);
+    color: rgb(0, 0, 0);
     font-size: medium;
     text-align: center;
 }
 
 h3{
-    color: rgb(213, 213, 149);
+    color: rgb(0, 0, 0);
     font-size: small;
     margin-bottom:auto ;
 }
@@ -60,7 +61,7 @@ div p{
 }
 
 footer{
-    background-color:  #2e4b65;
+    background-color:  #ffffff;
     width: 50%;
     margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
@@ -74,9 +75,9 @@ footer li{
     margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
     list-style: none;
-    color: rgb(213, 213, 149);
+    color: rgb(0, 0, 0);
 }
 
 a{
-    color: rgb(213, 213, 149);
+    color: rgb(0, 0, 0);
 }
